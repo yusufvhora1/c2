@@ -10,11 +10,11 @@ bot_admin:5538810971,// admin telegram id
 
 channelsList : ['@Nownvrairdrop','@Payoutworld12'],// channels list
 
-reffer_bonus:0.000000002,// refferal bonus amount
+reffer_bonus:0.00002,// refferal bonus amount
 
-min_wd:0.000000001,//min withdrawal amount
+min_wd:0.00001,//min withdrawal amount
 
-daily_bonus:0.000000001,// daily bonus amount
+daily_bonus:0.00002,// daily bonus amount
 
 currency:'solana', //bot cuurency
 
