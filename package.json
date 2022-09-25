@@ -1,0 +1,27 @@
+{
+  "name": "coinbasebot",
+  "version": "1.0.0",
+  "description": "coinbasebot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khuzha/chatAdmin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khuzha/chatAdmin/issues"
+  },
+  "homepage": "https://github.com/Khuzha/chatAdmin#readme",
+  "dependencies": {
+  "body-parser": "1.19.0",
+    "mongodb": "^3.5.2",
+    "express": "4.17.1",
+    "telegraf": "^4.3.0",
+    "coinbase": "2.0.8"
+  }
+}
